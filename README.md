@@ -52,10 +52,8 @@ The goal is to predict wine quality scores using various chemical properties of 
 - Enable model retraining on new data through UI
 
 ## 👨‍💻 Authors
-- Tejas Shinde  
-- Eeshan Arekar 
-- Dwij Sawant
-- Riyansh
+- 16014223043 Kaustubh Patil
+- 16014223037 Gurjit Singh
 
 ## 📜 License
 This project is open-source and free to use under the MIT License.
